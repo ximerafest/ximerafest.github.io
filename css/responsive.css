@@ -16,28 +16,46 @@
     .fixed-menu .navbar-right li a {
         padding: 20px;
     }
-    #countdown li {
-        margin-right: 30px;
-    }
-    .guitar {
-        right: 0;
-    }
-    .guitar2 {
-        height: 100%
-    }
-    .guitar2 img {
-        padding-top: 20%;
-    }
-    .ear-piece {
-        left: -15%;
-    }
-    #event .col-md-9 {
-        z-index: 10;
-    }
 }
 /* sm */
 
 @media (min-width: 768px) and (max-width: 991px) {
+    #main-slider img.ximera-logo{
+        width: 230px;
+    }
+    #contact h1{
+        font-size: 20px;
+    }
+    #contact address{
+        font-size: 15px;
+    }
+    .event{
+        width:230px;
+    }
+    .event-item img{
+        width : 85%;
+    }
+    .event-title{
+        font-size: 20px;
+    }
+    .event-subtitle{
+        font-size: 15px;
+    }
+    .contact-section .contactBg{
+        display: none;
+    }
+    #contact  {
+        background-color: #1A6E88;
+    }
+    
+    .eventInfoBg .title{
+        font-size: 20px;
+    }
+    .eventInfoBg .civilizationTitle,
+    .eventInfoBg .subtitle{
+        font-size: 15px;
+    }
+    
     .navbar-brand {
         width: 215px;
         height: 60px;
@@ -95,6 +113,13 @@
   .registrationInfo {
     margin-top: 20px;
   }
+        .contact-section .contactBg{
+        display: none;
+    }
+    #contact  {
+        background-color: #1A6E88;
+    }
+
     sup{
         font-size: 10px;
     }
@@ -103,10 +128,7 @@
         border-bottom: 1px solid rgba(128, 128, 128, 0.59);
         padding: 10px 25px;
     }
-    #eventsSubMenu:hover,
-    .eventNavLink:hover + #eventsSubMenu {
-        display: none;
-    }
+
     .fixed-menu .navbar-right{
         background-color: white;
     }
@@ -212,17 +234,6 @@
     #sponsor h2 {
         font-size: 30px;
     }
-    .twitter-control-left,
-    .twitter-control-right {
-        top: inherit;
-        bottom: -40px;
-    }
-    .twitter-control-left {
-        left: 46%;
-    }
-    .twitter-control-right {
-        right: 46%;
-    }
     #sponsor {
         background-position: right 0 bottom 0;
     }
@@ -272,6 +283,30 @@
   .registrationInfo {
     margin-top: 20px;
   }
+    .dateInfo {
+        font-size: 20px;
+    }
+        .eventInfoBg .title{
+        font-size: 20px;
+    }
+    .eventInfoBg .civilizationTitle,
+    .eventInfoBg .subtitle{
+        font-size: 15px;
+    }
+    .eventInfoBg .summaryText1, .eventInfoBg .summaryText2, .eventInfoBg .summaryText3 {
+        font-size: 9px;
+    }
+    .eventInfoBg .paricipantNo, .eventInfoBg .regFee, .eventInfoBg .prizeMoney1, .eventInfoBg .prizeMoney2
+    {
+        font-size: 9px;
+    }
+    .event .infoWrapper{
+        left:auto;
+        width: auto;
+    }
+    .eventInfoBg {
+        height: auto;
+    }
     sup{
         font-size: 10px;
     }
@@ -288,7 +323,7 @@
         padding: 30px 0 20px;
     }
     .aboutXimera {
-        font-size: 0.7em;
+        font-size: 0.9em;
     }
     /* Home */
     #home {
@@ -314,41 +349,32 @@
     #main-slider .carousel-caption a {
         font-size: 12px;
     }
-    .carousel-indicators {
-        bottom: 0;
-    }
     /* Explore */
     #explore h2 {
         float: inherit;
-        font-size: 30px;
+        font-size: 17px;
         margin-bottom: 30px;
     }
-    #countdown li {
-        font-size: 14px;
-        margin-right: 15px;
-        width: 45px;
-    }
-    #countdown li span {
-        font-size: 20px;
-        height: 45px;
-        line-height: 45px;
-        width: 45px;
-    }
-    #countdown li:before,
-    #countdown li:after {
-        top: 18px
-    }
-    .cart {
-        right: -209px;
-    }
-    .cart a {
-        font-size: 18px;
-    }
-    .cart a i {
-        font-size: 20px;
-        padding: 12px;
-    }
+    
     /*event */
+    .event{
+        width:auto;
+    }
+    .event-title{
+        font-size: 20px;
+    }
+    .event-subtitle{
+        font-size: 15px;
+    }
+    .contact-section .contactBg{
+        display: none;
+    }
+    #contact  {
+        background-color: #1A6E88;
+    }
+    #contact address{
+        font-size: 15px;
+    }
     .single-event {
         margin-bottom: 40px;
     }
@@ -361,52 +387,8 @@
     #sponsor h2 {
         font-size: 30px;
     }
-    .about-content p,
-    #twitter-feed .item a,
-    #twitter-feed .item p {
-        font-size: 15px;
-    }
-    .twitter-control-left,
-    .twitter-control-right {
-        top: inherit;
-        bottom: -40px;
-    }
-    .twitter-control-left {
-        left: 46%;
-    }
-    .twitter-control-right {
-        right: 46%;
-    }
     #sponsor {
         background-position: right 0 bottom;
-    }
-    .sponsor-control-left,
-    .sponsor-control-right {
-        top: 0;
-    }
-    .sponsor-control-left {
-        right: 10%;
-    }
-    .sponsor-control-right {
-        right: 5%;
-    }
-    #sponsor .item ul li {
-        width: 45%;
-        margin-right: 5%
-    }
-    #sponsor .item ul li:last-child {
-        margin-right: 0;
-    }
-    #footer {
-        font-size: 14px;
-    }
-    .watch,
-    .guitar,
-    .guitar2,
-    .twit,
-    .light,
-    .ear-piece {
-        display: none;
     }
     .contact-section {
         background-position: left 0 bottom 0;
