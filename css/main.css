@@ -162,7 +162,7 @@ sup {
 #explore h1,
 #explore h2 {
     text-transform: inherit;
-    font-size: 1.2em;
+    font-size: 1.4em;
     line-height: 1.6em;
     text-align: justify;
     font-family: 'Kurale', serif;
@@ -367,7 +367,7 @@ sup {
 .eventInfoBg .infoFooter {
     font-family: 'Kurale', serif;
     font-size: 16px;
-    padding: 20px;
+    padding: 0px 0px 20px 10px;
     position: absolute;
     bottom: 0px;
     width: 100%;
@@ -376,16 +376,15 @@ sup {
     float: left;
     text-shadow: 2px 2px white;
     text-decoration: underline;
-    display: inline;
-    width: 50%;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
 }
 .eventInfoBg .registrationText a {
     color: firebrick;
 }
 .eventInfoBg .contactInfo {
-    text-align: right;
-    display: initial;
-    width: 50%;
+    text-align: left;
 }
 .event {
     display: inline-block;
@@ -460,8 +459,8 @@ sup {
 #explore .exploreBg{
     position: absolute;
     width: 100%;
-    position: absolute;
     left: 0px;
+    opacity: 0.7;
 }
 #explore .container {
     padding-top: 47px;
@@ -472,11 +471,12 @@ sup {
 **************************/
 
 #events {
+    background-image: url('../images/noisy-texture.png');
+    background-color: #F9F4DA;
     padding-top: 40px;
     padding-bottom: 40px;
     font-family: rq;
     position: relative;
-    background-color: white;
 }
 #events .arrow {
     color: black;
@@ -567,18 +567,14 @@ sup {
 .contact-section {
     text-align: center;
     font-family: 'Kurale', serif;
-    color: white;
+    color: black;
+    text-shadow: 1px 1px #FFFFFF;
 }
 .contact-section .contactBg {
     position: absolute;
-    -webkit-filter: blur(5px);
-    -moz-filter: blur(5px);
-    -o-filter: blur(5px);
-    -ms-filter: blur(5px);
-    filter: blur(5px);
     width: 100%;
-    position: absolute;
     left: 0px;
+    max-height: 1000px;
 }
 #contact .container {
     padding-top: 47px;
@@ -593,8 +589,6 @@ sup {
 }
 #contact address {
     font-size: 21px;
-    color: white;
-    text-shadow: 1px 1px #373737;
 }
 /*************************
 ******Footer CSS****
