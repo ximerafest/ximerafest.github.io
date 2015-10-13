@@ -20,44 +20,43 @@
 /* sm */
 
 @media (min-width: 768px) and (max-width: 991px) {
-    #main-slider img.ximera-logo{
+    #main-slider img.ximera-logo {
         width: 230px;
     }
-    #contact h1{
+    #contact h1 {
         font-size: 20px;
     }
-    #contact address{
+    #contact address {
         font-size: 15px;
     }
-    .event{
-        width:230px;
+    .event {
+        width: 230px;
     }
-    .event-item img{
-        width : 85%;
+    .event-item img {
+        width: 85%;
     }
-    .event-title{
+    .event-title {
         font-size: 20px;
     }
-    .event-subtitle{
+    .event-subtitle {
         font-size: 15px;
     }
-    .contact-section .contactBg{
+    .contact-section .contactBg {
         display: none;
     }
-    #contact  {
+    #contact {
         background-color: #1A6E88;
     }
     #explore {
         background-color: rgba(255, 200, 0, 0.62);
     }
-    #explore .exploreBg{
+    #explore .exploreBg {
         display: none;
     }
     .eventInfoBg .civilizationTitle,
-    .eventInfoBg .subtitle{
+    .eventInfoBg .subtitle {
         font-size: 15px;
     }
-    
     .navbar-brand {
         width: 215px;
         height: 60px;
@@ -109,44 +108,42 @@
 /* xs */
 
 @media (max-width: 767px) {
-  #main-slider img.ximera-logo{
-    width: 250px;
-  }
-  .registrationInfo {
-    margin-top: 20px;
-  }
-    .contact-section .contactBg{
+    #main-slider img.ximera-logo {
+        width: 250px;
+    }
+    .registrationInfo {
+        margin-top: 20px;
+    }
+    .contact-section .contactBg {
         display: none;
     }
-    #contact  {
+    #contact {
         background-color: #1A6E88;
     }
     #explore {
-        background-color: rgba(255, 200, 0, 0.62);
+        background-color: rgb(228, 222, 180);
     }
-    #explore .exploreBg{
+    #explore .exploreBg {
         display: none;
     }
-
-    sup{
+    sup {
         font-size: 10px;
     }
-    .fixed-menu .navbar-right li a{
+    .fixed-menu .navbar-right li a {
         text-align: center;
         border-bottom: 1px solid rgba(128, 128, 128, 0.59);
         padding: 10px 25px;
     }
-
-    .fixed-menu .navbar-right{
+    .fixed-menu .navbar-right {
         background-color: white;
     }
     .fixed-menu {
         background-color: black;
     }
-    #main-slider img.img-responsive{
+    #main-slider img.img-responsive {
         display: none;
     }
-    #main-slider .carousel-caption{
+    #main-slider .carousel-caption {
         padding: 0px;
     }
     .main-nav .container {
@@ -175,7 +172,7 @@
     }
     #main-slider img.img-responsive {
         position: absolute;
-    top: 20%;
+        top: 20%;
     }
     .event-item {
         width: 175px;
@@ -285,41 +282,45 @@
 /* XS Portrait */
 
 @media (max-width: 479px) {
-  #main-slider img.ximera-logo{
-    width: 250px;
-  }
-  .registrationInfo {
-    margin-top: 20px;
-  }
+    #main-slider img.ximera-logo {
+        width: 250px;
+    }
+    .registrationInfo {
+        margin-top: 20px;
+    }
     .dateInfo {
         font-size: 20px;
     }
-        .eventInfoBg .title{
+    .eventInfoBg .title {
         font-size: 20px;
     }
     .eventInfoBg .civilizationTitle,
-    .eventInfoBg .subtitle{
+    .eventInfoBg .subtitle {
         font-size: 15px;
     }
-    .eventInfoBg .summaryText1, .eventInfoBg .summaryText2, .eventInfoBg .summaryText3 {
+    .eventInfoBg .summaryText1,
+    .eventInfoBg .summaryText2,
+    .eventInfoBg .summaryText3 {
         font-size: 9px;
     }
-    .eventInfoBg .paricipantNo, .eventInfoBg .regFee, .eventInfoBg .prizeMoney1, .eventInfoBg .prizeMoney2
-    {
+    .eventInfoBg .paricipantNo,
+    .eventInfoBg .regFee,
+    .eventInfoBg .prizeMoney1,
+    .eventInfoBg .prizeMoney2 {
         font-size: 9px;
     }
-    .event .infoWrapper{
-        left:auto;
+    .event .infoWrapper {
+        left: auto;
         width: auto;
     }
     .eventInfoBg {
         height: auto;
     }
-    sup{
+    sup {
         font-size: 10px;
     }
-    sub{
-      bottom:0px;
+    sub {
+        bottom: 0px;
     }
     .main-nav .container {
         display: none;
@@ -363,24 +364,23 @@
         font-size: 17px;
         margin-bottom: 30px;
     }
-    
     /*event */
-    .event{
-        width:auto;
+    .event {
+        width: auto;
     }
-    .event-title{
+    .event-title {
         font-size: 20px;
     }
-    .event-subtitle{
+    .event-subtitle {
         font-size: 15px;
     }
-    .contact-section .contactBg{
+    .contact-section .contactBg {
         display: none;
     }
-    #contact  {
-        background-color: #1A6E88;
+    #contact {
+        background-color: #C2E093;
     }
-    #contact address{
+    #contact address {
         font-size: 15px;
     }
     .single-event {

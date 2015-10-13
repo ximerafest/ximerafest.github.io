@@ -72,10 +72,10 @@ jQuery(function($) {
                 summaryText2: "They led Rome as one of the greatest civilizations in the world.",
                 summaryText3: "Do you have what it takes to lead an organization as “Best Manager” just like the Romans did centuries ago?",
                 paricipantNo: "1 per college",
-                regFee: "Rs. 1000",
+                regFee: "Rs. 750",
                 prizeMoney1: "Rs. 20,000",
                 prizeMoney2: "",
-                contactInfo: "",
+                contactInfo: "Anshank (09742440425)",
                 registerLink: "https://bluestreaklabs.typeform.com/to/KQUJof"
             }, {
                 title: "Consilium",
@@ -88,10 +88,10 @@ jQuery(function($) {
                 summaryText2: "Support the Aztecs by showing them how a new product or service can be launched by creating a B-Plan!",
                 summaryText3: "",
                 paricipantNo: "2 per Team",
-                regFee: "Rs. 1000",
-                prizeMoney1: "Rs. 20,000",
+                regFee: "Rs. 400",
+                prizeMoney1: "Rs. 15,000",
                 prizeMoney2: "",
-                contactInfo: ""
+                contactInfo: "Priyanka (07411637955)"
             }, {
                 title: "Ingenium",
                 subTitle: "B-Quiz",
@@ -104,10 +104,10 @@ jQuery(function($) {
                 summaryText2: "Which is what is required of managers today, knowledge across all streams. ",
                 summaryText3: "Time test your knowledge!",
                 paricipantNo: "2 per Team",
-                regFee: "Rs. 1000",
-                prizeMoney1: "Rs. 20,000",
+                regFee: "Rs. 400",
+                prizeMoney1: "Rs. 15,000",
                 prizeMoney2: "",
-                contactInfo: ""
+                contactInfo: "Ashhish (09008133577)"
             }, {
                 title: "Emporio",
                 subTitle: "Marketing",
@@ -120,10 +120,10 @@ jQuery(function($) {
                 summaryText2: "The modern-day marketing executive should also look at new avenues to sell a product just like the Phoenicians.",
                 summaryText3: "",
                 paricipantNo: "2 per Team",
-                regFee: "Rs. 500",
-                prizeMoney1: "1st Rs. 10,000",
-                prizeMoney2: "2nd Rs. 5000",
-                contactInfo: ""
+                regFee: "Rs. 400",
+                prizeMoney1: "1st Rs. 15,000",
+                prizeMoney2: "2nd Rs. 10,000",
+                contactInfo: "Varsha (09902034701)"
             }, {
                 title: "Stamenon",
                 subTitle: "Finance",
@@ -136,10 +136,10 @@ jQuery(function($) {
                 summaryText2: "Take this challenge and prove to be the modern day Byzantine!",
                 summaryText3: "",
                 paricipantNo: "2 per Team",
-                regFee: "Rs. 500",
-                prizeMoney1: "1st Rs. 10,000",
-                prizeMoney2: "2nd Rs. 5000",
-                contactInfo: ""
+                regFee: "Rs. 400",
+                prizeMoney1: "1st Rs. 15,000",
+                prizeMoney2: "2nd Rs. 10,000",
+                contactInfo: "Avinash (08050503760)"
             }, {
                 title: "Effectus",
                 subTitle: "Operations",
@@ -152,10 +152,10 @@ jQuery(function($) {
                 summaryText2: "Are you equipped enough to cope with today’s operations knowledge like the Egyptians were during their time?",
                 summaryText3: "",
                 paricipantNo: "2 per Team",
-                regFee: "Rs. 500",
-                prizeMoney1: "1st Rs. 10,000",
-                prizeMoney2: "2nd Rs. 5000",
-                contactInfo: ""
+                regFee: "Rs. 400",
+                prizeMoney1: "1st Rs. 15,000",
+                prizeMoney2: "2nd Rs. 10,000",
+                contactInfo: "Madhura (09538590703)"
             }, {
                 title: "Populo",
                 subTitle: "HR",
@@ -168,10 +168,10 @@ jQuery(function($) {
                 summaryText2: "Today, a manager comes across many challenges related to people management. Are you game?",
                 summaryText3: "",
                 paricipantNo: "2 per team",
-                regFee: "Rs. 500",
-                prizeMoney1: "1st Rs. 10,000",
-                prizeMoney2: "2nd Rs. 5000",
-                contactInfo: ""
+                regFee: "Rs. 400",
+                prizeMoney1: "1st Rs. 15,000",
+                prizeMoney2: "2nd Rs. 10,000",
+                contactInfo: "Meenakshi (07406839903)"
             }, {
                 title: "Quaestus",
                 subTitle: "Entrepreneurship",
@@ -184,10 +184,10 @@ jQuery(function($) {
                 summaryText2: "Even today, innovation is important. It is one of the key drivers of an entrepreneur’s success. ",
                 summaryText3: "Can you be an Entrepreneur ? ",
                 paricipantNo: "2 per Team",
-                regFee: "Rs. 500",
-                prizeMoney1: "1st Rs. 10,000",
-                prizeMoney2: "2nd Rs. 5000",
-                contactInfo: ""
+                regFee: "Rs. 400",
+                prizeMoney1: "1st Rs. 15,000",
+                prizeMoney2: "2nd Rs. 10,000",
+                contactInfo: "Nupur (09902035880)"
             }, {
                 title: "Primiceirius",
                 subTitle: "General Management",
@@ -200,10 +200,10 @@ jQuery(function($) {
                 summaryText2: "Persia was known for its all-round performance. A modern day manager requires to be an all-rounder across all streams. Are you?",
                 summaryText3: "",
                 paricipantNo: "2 per Team",
-                regFee: "Rs. 500",
-                prizeMoney1: "1st Rs. 10,000",
-                prizeMoney2: "2nd Rs. 5000",
-                contactInfo: ""
+                regFee: "Rs. 400",
+                prizeMoney1: "1st Rs. 15,000",
+                prizeMoney2: "2nd Rs. 10,000",
+                contactInfo: "Anirban (09742441204)"
             }, {
                 title: "Officium",
                 subTitle: "CSR",
@@ -216,10 +216,10 @@ jQuery(function($) {
                 summaryText2: "Today, companies are required to contribute a portion of their profits towards CSR. What will you do if given such a role?",
                 summaryText3: "",
                 paricipantNo: "2 per Team",
-                regFee: "Rs. 500",
-                prizeMoney1: "1st Rs. 10,000",
-                prizeMoney2: "2nd Rs. 5000",
-                contactInfo: ""
+                regFee: "Rs. 400",
+                prizeMoney1: "1st Rs. 15,000",
+                prizeMoney2: "2nd Rs. 10,000",
+                contactInfo: "Pragati (08792257357)"
             }
 
         ];
