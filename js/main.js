@@ -75,7 +75,7 @@ jQuery(function($) {
                 regFee: "Rs. 1000",
                 prizeMoney1: "Rs. 20,000",
                 prizeMoney2: "",
-                contactInfo: "",
+                contactInfo: "Anshank (09742440425)",
                 registerLink: "https://bluestreaklabs.typeform.com/to/KQUJof"
             }, {
                 title: "Consilium",
@@ -91,7 +91,7 @@ jQuery(function($) {
                 regFee: "Rs. 1000",
                 prizeMoney1: "Rs. 20,000",
                 prizeMoney2: "",
-                contactInfo: ""
+                contactInfo: "Priyanka (07411637955)"
             }, {
                 title: "Ingenium",
                 subTitle: "B-Quiz",
@@ -107,7 +107,7 @@ jQuery(function($) {
                 regFee: "Rs. 1000",
                 prizeMoney1: "Rs. 20,000",
                 prizeMoney2: "",
-                contactInfo: ""
+                contactInfo: "Ashhish (09008133577)"
             }, {
                 title: "Emporio",
                 subTitle: "Marketing",
@@ -123,7 +123,7 @@ jQuery(function($) {
                 regFee: "Rs. 500",
                 prizeMoney1: "1st Rs. 10,000",
                 prizeMoney2: "2nd Rs. 5000",
-                contactInfo: ""
+                contactInfo: "Varsha (09902034701)"
             }, {
                 title: "Stamenon",
                 subTitle: "Finance",
@@ -139,7 +139,7 @@ jQuery(function($) {
                 regFee: "Rs. 500",
                 prizeMoney1: "1st Rs. 10,000",
                 prizeMoney2: "2nd Rs. 5000",
-                contactInfo: ""
+                contactInfo: "Avinash (08050503760)"
             }, {
                 title: "Effectus",
                 subTitle: "Operations",
@@ -155,7 +155,7 @@ jQuery(function($) {
                 regFee: "Rs. 500",
                 prizeMoney1: "1st Rs. 10,000",
                 prizeMoney2: "2nd Rs. 5000",
-                contactInfo: ""
+                contactInfo: "Madhura (09538590703)"
             }, {
                 title: "Populo",
                 subTitle: "HR",
@@ -203,7 +203,7 @@ jQuery(function($) {
                 regFee: "Rs. 500",
                 prizeMoney1: "1st Rs. 10,000",
                 prizeMoney2: "2nd Rs. 5000",
-                contactInfo: ""
+                contactInfo: "Anirban (09742441204)"
             }, {
                 title: "Officium",
                 subTitle: "CSR",
@@ -219,7 +219,7 @@ jQuery(function($) {
                 regFee: "Rs. 500",
                 prizeMoney1: "1st Rs. 10,000",
                 prizeMoney2: "2nd Rs. 5000",
-                contactInfo: ""
+                contactInfo: "Pragati (08792257357)"
             }
 
         ];

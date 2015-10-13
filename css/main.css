@@ -365,6 +365,8 @@ sup {
     margin-left: 100px;
 }
 .eventInfoBg .infoFooter {
+    font-family: 'Kurale', serif;
+    font-size: 16px;
     padding: 20px;
     position: absolute;
     bottom: 0px;
@@ -382,7 +384,6 @@ sup {
 }
 .eventInfoBg .contactInfo {
     text-align: right;
-    margin-right: 30px;
     display: initial;
     width: 50%;
 }
