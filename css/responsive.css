@@ -47,9 +47,11 @@
     #contact  {
         background-color: #1A6E88;
     }
-    
-    .eventInfoBg .title{
-        font-size: 20px;
+    #explore {
+        background-color: rgba(255, 200, 0, 0.62);
+    }
+    #explore .exploreBg{
+        display: none;
     }
     .eventInfoBg .civilizationTitle,
     .eventInfoBg .subtitle{
@@ -113,11 +115,17 @@
   .registrationInfo {
     margin-top: 20px;
   }
-        .contact-section .contactBg{
+    .contact-section .contactBg{
         display: none;
     }
     #contact  {
         background-color: #1A6E88;
+    }
+    #explore {
+        background-color: rgba(255, 200, 0, 0.62);
+    }
+    #explore .exploreBg{
+        display: none;
     }
 
     sup{

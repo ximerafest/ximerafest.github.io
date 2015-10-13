@@ -14,7 +14,6 @@
     src: url(../fonts/Requiem.ttf);
     font-weight: bold;
 }
-
 a {
     -webkit-transition: 300ms;
     -moz-transition: 300ms;
@@ -169,7 +168,8 @@ sup {
     font-family: 'Kurale', serif;
     width: 70%;
     margin-left: 15%;
-    color: #FFF;
+    color: black;
+    text-shadow: 0px 1px white;
 }
 #explore h1 {
     font-size: 1.5em;
@@ -177,7 +177,7 @@ sup {
 #explore h2 {
     font-size: 1.3em;
 }
-#explore hr{
+#explore hr {
     width: 40%;
 }
 #home {
@@ -313,11 +313,11 @@ sup {
     background-size: cover;
     background-image: url('../images/events/infoimages/paper_texture.jpg');
 }
-.eventInfoBg .header{
+.eventInfoBg .header {
     padding: 25px;
     text-align: left;
 }
-.eventInfoBg .titleSection{
+.eventInfoBg .titleSection {
     width: 70%;
     display: inline-block;
 }
@@ -334,10 +334,10 @@ sup {
     display: inline;
     margin-top: -70px;
 }
-.eventInfoBg .summary{
+.eventInfoBg .summary {
     margin-top: -30px;
 }
-.eventInfoBg .civilizationTitle{
+.eventInfoBg .civilizationTitle {
     text-align: center;
     font-family: bf;
     color: firebrick;
@@ -346,7 +346,7 @@ sup {
 }
 .eventInfoBg .summaryText1,
 .eventInfoBg .summaryText2,
-.eventInfoBg .summaryText3{
+.eventInfoBg .summaryText3 {
     margin: 17px;
     font-family: bf;
     text-align: left;
@@ -355,32 +355,32 @@ sup {
 .eventInfoBg .paricipantNo,
 .eventInfoBg .regFee,
 .eventInfoBg .prizeMoney1,
-.eventInfoBg .prizeMoney2{
+.eventInfoBg .prizeMoney2 {
     font-family: 'Kurale', serif;
     font-weight: 500;
     font-size: 20px;
     text-align: center;
 }
-.eventInfoBg .prizeMoney2{
+.eventInfoBg .prizeMoney2 {
     margin-left: 100px;
 }
-.eventInfoBg .infoFooter{
+.eventInfoBg .infoFooter {
     padding: 20px;
     position: absolute;
     bottom: 0px;
     width: 100%;
 }
-.eventInfoBg .registrationText{
+.eventInfoBg .registrationText {
     float: left;
     text-shadow: 2px 2px white;
     text-decoration: underline;
     display: inline;
     width: 50%;
 }
-.eventInfoBg .registrationText a{
+.eventInfoBg .registrationText a {
     color: firebrick;
 }
-.eventInfoBg .contactInfo{
+.eventInfoBg .contactInfo {
     text-align: right;
     margin-right: 30px;
     display: initial;
@@ -441,7 +441,6 @@ sup {
     color: #E8D2D2;
     opacity: 1;
 }
-
 .event-item img:hover {
     box-shadow: 2px 2px 2px black;
 }
@@ -455,16 +454,18 @@ sup {
     font-size: 20px;
 }
 #explore {
-    background-color: #FFFFFF;
-    background-image: url("../images/events/bg_explore.jpg");
-    background-position: center bottom;
-    position: relative;
-    overflow: hidden;
-    padding: 80px 0 100px;
     text-align: center;
-    background-size: cover;
 }
-
+#explore .exploreBg{
+    position: absolute;
+    width: 100%;
+    position: absolute;
+    left: 0px;
+}
+#explore .container {
+    padding-top: 47px;
+    position: relative;
+}
 /*************************
 *******schedule CSS******
 **************************/
@@ -473,6 +474,8 @@ sup {
     padding-top: 40px;
     padding-bottom: 40px;
     font-family: rq;
+    position: relative;
+    background-color: white;
 }
 #events .arrow {
     color: black;
@@ -481,7 +484,6 @@ sup {
     width: 76%;
     margin-left: 12%;
 }
-
 .single-event {
     text-align: center;
 }
@@ -498,7 +500,6 @@ sup {
     font-weight: 100;
     display: block;
 }
-
 #sponsers .arrow {
     color: black;
 }
@@ -556,31 +557,28 @@ sup {
 .sponsor-control-right {
     right: 10%
 }
-
 #map {
     position: relative;
 }
 #gmap {
     height: 450px;
 }
-
 .contact-section {
     text-align: center;
     font-family: 'Kurale', serif;
     color: white;
 }
-.contact-section .contactBg{
-position: absolute;
+.contact-section .contactBg {
+    position: absolute;
     -webkit-filter: blur(5px);
-  -moz-filter: blur(5px);
-  -o-filter: blur(5px);
-  -ms-filter: blur(5px);
-  filter: blur(5px);
-        width: 100%;
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
+    filter: blur(5px);
+    width: 100%;
     position: absolute;
     left: 0px;
 }
-
 #contact .container {
     padding-top: 47px;
     position: relative;
@@ -597,7 +595,6 @@ position: absolute;
     color: white;
     text-shadow: 1px 1px #373737;
 }
-
 /*************************
 ******Footer CSS****
 **************************/
