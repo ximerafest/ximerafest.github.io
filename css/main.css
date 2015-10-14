@@ -8,6 +8,7 @@
 .sponsorNav{
     position: fixed !important;
     left: 0px;
+    top:0px;
     font-family: 'Kurale', serif;
     font-size: 20px;
     width: 280px;
@@ -71,11 +72,11 @@ h2 {
     margin-top: 12px
 }
 .navbar-toggle .icon-bar {
-    background-color: #fff;
+    background-color: #000;
 }
 .navbar-toggle,
 .navbar-toggle:focus {
-    border: 1px solid #fff;
+    border: 1px solid #000;
     outline: none;
 }
 sup {
