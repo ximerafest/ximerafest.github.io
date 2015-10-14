@@ -5,6 +5,36 @@
 *******Typography******
 **************************/
 
+.sponsorNav{
+    position: fixed !important;
+    left: 0px;
+    font-family: 'Kurale', serif;
+    font-size: 20px;
+    width: 280px;
+    background-color: white;
+    box-shadow: 6px 0px 7px #8A7777;
+    border-radius: 0px 0px 10px 0px;
+}
+.fixed-menu .sponsorNav{
+    box-shadow : 0px 0px 0px black;
+}
+#titleSponsorLogo{
+    background-image: url("../images/canara.png");
+    width: 150px;
+    height: 38px;
+    background-size: cover;
+    display: inline-block;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+#titleSponsorText{
+    margin: 10px;
+    display: inline;
+    float: left;
+    color: #AD0000;
+}
+
 @font-face {
     font-family: bf;
     src: url(../fonts/BenjaminFranklin.ttf);
