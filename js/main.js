@@ -28,8 +28,7 @@ jQuery(function($) {
         scrollOffset: 0,
         filter: ':not(.no-scroll)'
     });
-
-    // events 
+    // events
 
 
     var eventInfoTmpl = _.template($("#eventInfo_tmpl").html());
@@ -76,6 +75,8 @@ jQuery(function($) {
                 prizeMoney1: "Rs. 20,000",
                 prizeMoney2: "",
                 contactInfo: "Anshank (09742440425)",
+                importantDetails:"",
+                importantDetailsText:"",
                 registerLink: "https://bluestreaklabs.typeform.com/to/KQUJof"
             }, {
                 title: "Consilium",
@@ -91,6 +92,8 @@ jQuery(function($) {
                 regFee: "Rs. 400",
                 prizeMoney1: "Rs. 15,000",
                 prizeMoney2: "",
+                importantDetails:"documents/CONSILIUM.docx",
+                importantDetailsText: "Important Details",
                 contactInfo: "Priyanka (07411637955)"
             }, {
                 title: "Ingenium",
@@ -107,6 +110,8 @@ jQuery(function($) {
                 regFee: "Rs. 400",
                 prizeMoney1: "Rs. 15,000",
                 prizeMoney2: "",
+                importantDetails:"",
+                  importantDetailsText:"",
                 contactInfo: "Ashhish (09008133577)"
             }, {
                 title: "Emporio",
@@ -123,6 +128,8 @@ jQuery(function($) {
                 regFee: "Rs. 400",
                 prizeMoney1: "1st Rs. 15,000",
                 prizeMoney2: "2nd Rs. 10,000",
+                importantDetails:"",
+                  importantDetailsText:"",
                 contactInfo: "Varsha (09902034701)"
             }, {
                 title: "Stamenon",
@@ -139,6 +146,8 @@ jQuery(function($) {
                 regFee: "Rs. 400",
                 prizeMoney1: "1st Rs. 15,000",
                 prizeMoney2: "2nd Rs. 10,000",
+                importantDetails:"",
+                  importantDetailsText:"",
                 contactInfo: "Avinash (08050503760)"
             }, {
                 title: "Effectus",
@@ -155,6 +164,8 @@ jQuery(function($) {
                 regFee: "Rs. 400",
                 prizeMoney1: "1st Rs. 15,000",
                 prizeMoney2: "2nd Rs. 10,000",
+                importantDetails:"",
+                  importantDetailsText:"",
                 contactInfo: "Madhura (09538590703)"
             }, {
                 title: "Populo",
@@ -171,6 +182,8 @@ jQuery(function($) {
                 regFee: "Rs. 400",
                 prizeMoney1: "1st Rs. 15,000",
                 prizeMoney2: "2nd Rs. 10,000",
+                importantDetails:"",
+                  importantDetailsText:"",
                 contactInfo: "Meenakshi (07406839903)"
             }, {
                 title: "Quaestus",
@@ -187,6 +200,8 @@ jQuery(function($) {
                 regFee: "Rs. 400",
                 prizeMoney1: "1st Rs. 15,000",
                 prizeMoney2: "2nd Rs. 10,000",
+                importantDetails:"",
+                  importantDetailsText:"",
                 contactInfo: "Nupur (09902035880)"
             }, {
                 title: "Primiceirius",
@@ -203,6 +218,8 @@ jQuery(function($) {
                 regFee: "Rs. 400",
                 prizeMoney1: "1st Rs. 15,000",
                 prizeMoney2: "2nd Rs. 10,000",
+                importantDetails:"",
+                  importantDetailsText:"",
                 contactInfo: "Anirban (09742441204)"
             }, {
                 title: "Officium",
@@ -219,6 +236,8 @@ jQuery(function($) {
                 regFee: "Rs. 400",
                 prizeMoney1: "1st Rs. 15,000",
                 prizeMoney2: "2nd Rs. 10,000",
+                importantDetails:"",
+                  importantDetailsText:"",
                 contactInfo: "Pragati (08792257357)"
             }
 
