@@ -200,8 +200,8 @@ jQuery(function($) {
                 regFee: "Rs. 400",
                 prizeMoney1: "1st Rs. 15,000",
                 prizeMoney2: "2nd Rs. 10,000",
-                importantDetails:"",
-                  importantDetailsText:"",
+                importantDetails:"documents/QUAESTUS.docx",
+                  importantDetailsText:"Important Details",
                 contactInfo: "Nupur (09902035880)"
             }, {
                 title: "Primiceirius",
