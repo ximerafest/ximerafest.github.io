@@ -108,8 +108,8 @@ jQuery(function($) {
                 summaryText3: "Event date - 7th November 2015",
                 paricipantNo: "2 per Team",
                 regFee: "Rs. 400",
-                prizeMoney1: "Rs. 15,000",
-                prizeMoney2: "",
+                prizeMoney1: "1st Rs. 15,000",
+                prizeMoney2: "2nd Rs. 10,000",
                 importantDetails:"",
                   importantDetailsText:"",
                 contactInfo: "Ashhish (09008133577)"
