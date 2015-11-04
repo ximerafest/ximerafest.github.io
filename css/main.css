@@ -186,6 +186,21 @@ sup {
 *******Home CSS******
 **************************/
 
+#socialIcons{
+    position: fixed;
+    top:25%;
+    z-index: 1000;
+}
+#fbSocialProfile{
+    background-image: url('../images/fb.jpeg');
+    width: 40px;
+    height: 40px;
+    background-size: cover;
+    box-shadow: 2px 2px 2px gray;
+    border-radius: 0px 5px 5px 0px;
+    cursor: pointer;
+}
+
 .ximera-heading {
     font-size: 70px;
 }
