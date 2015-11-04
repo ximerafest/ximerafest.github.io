@@ -154,6 +154,7 @@ sup {
     background-color: white;
     position: fixed;
     top: 0;
+    box-shadow: 2px 2px 2px gray;
 }
 .fixed-menu .navbar-right {
     padding: 0;
@@ -573,6 +574,11 @@ sup {
 .sponsorer {
     margin: 20px;
     display: inline-block;
+}
+
+.sponsorer img{
+    max-height: 100px;
+    max-width: 150px;
 }
 .light {
     position: absolute;
